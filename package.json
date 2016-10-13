@@ -1,0 +1,20 @@
+{
+  "name": "Liri-project",
+  "version": "1.0.0",
+  "description": "quick example on node",
+  "main": "pkg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Liri",
+    "lolz"
+  ],
+  "author": "Dele Amon",
+  "license": "ISC",
+  "dependencies": {
+    "omdb": "^0.7.0",
+    "spotify-web-api-node": "^2.3.5",
+    "twitter": "^1.4.0"
+  }
+}
